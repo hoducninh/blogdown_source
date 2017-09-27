@@ -1,0 +1,26 @@
+---
+title: "Nice to meet you!!!"
+author: "Ho Duc Ninh"
+tags: ["About me"]
+date: 2017-09-01T13:43:58-08:00
+thumbnailImagePosition: left
+thumbnailImage: https://raw.githubusercontent.com/hoducninh/hoducninh.github.io/master/myself.jpg
+---
+
+![](/img/myself.png)
+
+
+  I'm Ninh, a business data scientist at Vietnam Prosperity Bank, Vietnam (VPBank).
+  
+  I'm especially interested in machine learning and data visualization. At VPBank, I am using R focusing on analytics related to banking products, services and operation.
+
+-----
+
+## Contact me:
+- [Email](mailto:hoducninh@gmail.com)
+- [Twitter](http://twitter.com/hoducninh)
+- [Facebook](https://www.facebook.com/ninh.hoduc)
+
+-----
+
+Also check out [R-bloggers](http://www.R-bloggers.com) for lots of cool R stuff!
