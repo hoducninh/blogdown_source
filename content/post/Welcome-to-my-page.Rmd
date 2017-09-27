@@ -23,4 +23,4 @@ thumbnailImage: https://raw.githubusercontent.com/hoducninh/hoducninh.github.io/
 
 -----
 
-Also check out [R-bloggers](http://www.R-bloggers.com) for lots of cool R stuff!
+Also check out [R-bloggers](http://www.R-bloggers.com) for amazing R stuff!
